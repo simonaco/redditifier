@@ -1,4 +1,4 @@
-# Redditifier | [![Build Status](https://dev.azure.com/sicotin/sicotin/_apis/build/status/simonaco.reddit-api?branchName=master)](https://dev.azure.com/sicotin/sicotin/_build/latest?definitionId=25&branchName=master)
+# Redditifier | [![Build Status](https://dev.azure.com/sicotin/sicotin/_apis/build/status/simonaco.redditifier?branchName=master)](https://dev.azure.com/sicotin/sicotin/_build/latest?definitionId=26&branchName=master)
 
 ## Deploy resources
 
