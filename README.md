@@ -1,5 +1,9 @@
 # Script that posts links to Reddit
 
+## Deploy resources
+
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsimonaco%2Freddit-api%2Fmaster%2Fazuredeploy.json)
+
 ## How to run this
 
 1. Clone this repository and cd into *reddit-api*
