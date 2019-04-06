@@ -2,7 +2,7 @@
 
 ## Deploy resources
 
-[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsimonaco%2Freddit-api%2Fmaster%2Fazuredeploy.json)
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsimonaco%2Fredditifier%2Fmaster%2Fazuredeploy.json)
 
 ## Prerequisites
 
