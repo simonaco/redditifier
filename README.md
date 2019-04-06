@@ -1,4 +1,4 @@
-# Reddifier | [![Build Status](https://dev.azure.com/sicotin/sicotin/_apis/build/status/simonaco.reddit-api?branchName=master)](https://dev.azure.com/sicotin/sicotin/_build/latest?definitionId=25&branchName=master)
+# Redditifier | [![Build Status](https://dev.azure.com/sicotin/sicotin/_apis/build/status/simonaco.reddit-api?branchName=master)](https://dev.azure.com/sicotin/sicotin/_build/latest?definitionId=25&branchName=master)
 
 ## Deploy resources
 
@@ -8,13 +8,13 @@
 
 1. A recent version of Node (8+)
 
-1. VS Code: [here](https://code.visualstudio.com/download/?WT.mc_id=reddifier-github-sicotin)
+1. VS Code: [here](https://code.visualstudio.com/download/?WT.mc_id=redditfier-github-sicotin)
 
-1. Azure Functions CLI: [here](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?WT.mc_id=reddifier-github-sicotin)  
+1. Azure Functions CLI: [here](https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?WT.mc_id=redditfier-github-sicotin)  
 
-1. Azure Functions Extension for VS Code: [here](https://marketplace.visualstudio.com/items/?WT.mc_id=reddifier-github-sicotin&itemName=ms-azuretools.vscode-azurefunctions)  
+1. Azure Functions Extension for VS Code: [here](https://marketplace.visualstudio.com/items/?WT.mc_id=redditfier-github-sicotin&itemName=ms-azuretools.vscode-azurefunctions)  
 
-1. Azure account: [here](https://azure.microsoft.com/en-us/free/?wt.mc_id=reddifier-github-sicotin)
+1. Azure account: [here](https://azure.microsoft.com/en-us/free/?wt.mc_id=redditfier-github-sicotin)
 
 ## How to run this
 
