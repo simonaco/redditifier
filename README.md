@@ -1,8 +1,8 @@
-# Redditifier | [![Build Status](https://dev.azure.com/sicotin/sicotin/_apis/build/status/simonaco.redditifier?branchName=master)](https://dev.azure.com/sicotin/sicotin/_build/latest?definitionId=26&branchName=master)
+# Redditifier | [![Build Status](https://dev.azure.com/sicotin/sicotin/_apis/build/status/simonaco.redditifier?branchName=master)](https://dev.azure.com/sicotin/sicotin/_build/latest?definitionId=26&branchName=master&WT.mc_id=redditifier-github-sicotin)
 
 ## Deploy resources
 
-[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsimonaco%2Fredditifier%2Fmaster%2Fazuredeploy.json)
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://portal.azure.com/?WT.mc_id=redditifier-github-sicotin#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsimonaco%2Fredditifier%2Fmaster%2Fazuredeploy.json)
 
 ## Prerequisites
 
@@ -42,7 +42,7 @@
 ```json
 {
     "title":"Use this *checklist* to review your application architecture from a *resiliency* standpoint; Application Design, Data Management, Security, Testing & Deployment",
-    "url":"https://docs.microsoft.com/azure/architecture/checklist/resiliency",
+    "url":"https://docs.microsoft.com/azure/architecture/checklist/resiliency?WT.mc_id=redditifier-github-sicotin",
     "sr":"/r/AZURE/"
 }
 ```
